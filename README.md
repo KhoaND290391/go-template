@@ -6,7 +6,7 @@ template project using Golang , Cmake , docker easy to start
 3. Gomodule
 4. Environment: Viper
 
-#defined:
+# defined:
 default module's name is "app", update in file `go.mod` (ignore editing file `go.sum`)
 # using
 1. From root folder. The place contains Makefile. run command
